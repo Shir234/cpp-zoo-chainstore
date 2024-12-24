@@ -1,0 +1,56 @@
+﻿  Branch.cpp
+C:\Users\shir6\OneDrive - Afeka College Of Engineering\שנה ה\סמסטר ב\סי++\פרויקט\ChainStoreProjectPart2\Branch.h(25,57): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Branch.cpp')
+  
+  ChainStore.cpp
+C:\Users\shir6\OneDrive - Afeka College Of Engineering\שנה ה\סמסטר ב\סי++\פרויקט\ChainStoreProjectPart2\Branch.h(25,57): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'ChainStore.cpp')
+  
+C:\Users\shir6\OneDrive - Afeka College Of Engineering\שנה ה\סמסטר ב\סי++\פרויקט\ChainStoreProjectPart2\RegularBranch.h(25,53): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'ChainStore.cpp')
+  
+C:\Users\shir6\OneDrive - Afeka College Of Engineering\שנה ה\סמסטר ב\סי++\פרויקט\ChainStoreProjectPart2\ChainStore.h(34,51): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'ChainStore.cpp')
+  
+  Department.cpp
+  HelperFunctions.cpp
+C:\Users\shir6\OneDrive - Afeka College Of Engineering\שנה ה\סמסטר ב\סי++\פרויקט\ChainStoreProjectPart2\Branch.h(25,57): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'HelperFunctions.cpp')
+  
+C:\Users\shir6\OneDrive - Afeka College Of Engineering\שנה ה\סמסטר ב\סי++\פרויקט\ChainStoreProjectPart2\RegularBranch.h(25,53): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'HelperFunctions.cpp')
+  
+C:\Users\shir6\OneDrive - Afeka College Of Engineering\שנה ה\סמסטר ב\סי++\פרויקט\ChainStoreProjectPart2\ChainStore.h(34,51): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'HelperFunctions.cpp')
+  
+  Item.cpp
+  main.cpp
+C:\Users\shir6\OneDrive - Afeka College Of Engineering\שנה ה\סמסטר ב\סי++\פרויקט\ChainStoreProjectPart2\Branch.h(25,57): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\shir6\OneDrive - Afeka College Of Engineering\שנה ה\סמסטר ב\סי++\פרויקט\ChainStoreProjectPart2\RegularBranch.h(25,53): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\shir6\OneDrive - Afeka College Of Engineering\שנה ה\סמסטר ב\סי++\פרויקט\ChainStoreProjectPart2\ChainStore.h(34,51): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+  OnlineBranch.cpp
+C:\Users\shir6\OneDrive - Afeka College Of Engineering\שנה ה\סמסטר ב\סי++\פרויקט\ChainStoreProjectPart2\Branch.h(25,57): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'OnlineBranch.cpp')
+  
+  OnlineRegularBranch.cpp
+C:\Users\shir6\OneDrive - Afeka College Of Engineering\שנה ה\סמסטר ב\סי++\פרויקט\ChainStoreProjectPart2\Branch.h(25,57): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'OnlineRegularBranch.cpp')
+  
+C:\Users\shir6\OneDrive - Afeka College Of Engineering\שנה ה\סמסטר ב\סי++\פרויקט\ChainStoreProjectPart2\RegularBranch.h(25,53): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'OnlineRegularBranch.cpp')
+  
+  RegularBranch.cpp
+C:\Users\shir6\OneDrive - Afeka College Of Engineering\שנה ה\סמסטר ב\סי++\פרויקט\ChainStoreProjectPart2\Branch.h(25,57): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'RegularBranch.cpp')
+  
+C:\Users\shir6\OneDrive - Afeka College Of Engineering\שנה ה\סמסטר ב\סי++\פרויקט\ChainStoreProjectPart2\RegularBranch.h(25,53): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'RegularBranch.cpp')
+  
+  Generating Code...
+  ChainStoreProj.vcxproj -> C:\Users\shir6\OneDrive - Afeka College Of Engineering\שנה ה\סמסטר ב\סי++\פרויקט\ChainStoreProjectPart2\x64\Debug\ChainStoreProj.exe
