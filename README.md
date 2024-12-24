@@ -10,6 +10,7 @@ The design process began by identifying the main entities and their relationship
   - Animal Hierarchy: Animals were categorized into hierarchical classes (`Mammal`, `Reptile`, `Aquatic`) based on shared attributes and unique behaviors.
   - Roles in the Zoo: Roles such as visitors, zookeepers, and tour guides were modeled as classes with   
 distinct responsibilities. 
+
 The next step involved integrating system requirements with OOP principles to create a robust and extensible design: 
   - Encapsulation: Each class encapsulates its data and methods, providing a clear and controlled interface for interaction.
   - Inheritance: Abstract base classes were used to group shared attributes and behaviors, enabling derived classes to specialize functionality with minimal code duplication.
